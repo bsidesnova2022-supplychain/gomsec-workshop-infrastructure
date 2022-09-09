@@ -24,7 +24,7 @@ spec:
         app: run-service
     spec:
       containers:
-      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:gomsec-workshop-application-01e4e09ebd67b194ded4e82e2ed5d76d597c6f9b
+      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:gomsec-workshop-application-2617ab136590c8017acac781959c26aee3f300a4
         imagePullPolicy: Always
         name: pause
         resources: {}
